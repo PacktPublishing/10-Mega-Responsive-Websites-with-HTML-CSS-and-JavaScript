@@ -1,0 +1,26 @@
+1. Architect Website 
+https://www.youtube.com/watch?v=3J-EFMzz94g
+
+2. Budget App
+https://www.youtube.com/watch?v=fDffQYs2WB0
+
+3. Wine House
+https://www.youtube.com/watch?v=jtmuopTpzGE
+
+4. Task Manager
+https://www.youtube.com/watch?v=fqup-BL3VjI
+
+5. The Road
+https://www.youtube.com/watch?v=qmyN7lYY_xo
+
+6. Food Recipe App
+https://www.youtube.com/watch?v=d1vT4kkTCaw
+
+7. Slideshow
+https://www.youtube.com/watch?v=1qhSSp2q7n4
+
+8. Hamburger Menu
+https://www.youtube.com/watch?v=9Q7wy8r3i8w
+
+9. CSS Grid Menu
+https://www.youtube.com/watch?v=HScySfeSmWc
